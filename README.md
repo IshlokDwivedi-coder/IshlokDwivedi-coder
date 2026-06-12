@@ -3,7 +3,7 @@
 # Hey, I'm Ishlok Dwivedi 👋
 ### Backend Developer · Java & Spring Boot · Open Source Contributor
 
-*Final-year CS student at ABES Engineering College, Ghaziabad*
+*Final-year CSE student at ABES Engineering College, Ghaziabad*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishlok-dwivedi-b72521289)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishlokdwivedi1@gmail.com)
