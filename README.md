@@ -34,7 +34,6 @@ Currently contributing to open source through **GSSoC**, solving DSA problems re
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 
@@ -56,13 +55,9 @@ Currently contributing to open source through **GSSoC**, solving DSA problems re
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshlokDwivedi-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Ishlok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshlokDwivedi-coder&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshlokDwivedi-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=IshlokDwivedi-coder&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshlokDwivedi-coder&layout=compact&theme=tokyonight&hide_border=true&hide=javascript)
 
 </div>
 
@@ -98,6 +93,6 @@ A Spring Boot backend service for processing and managing financial data efficie
 
 <div align="center">
 
-### 💡 "Always Building. Always Learning."
+### 💡 Always Building. Always Learning.
 
 </div>
