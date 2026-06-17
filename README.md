@@ -1,9 +1,10 @@
 <div align="center">
 
 # Hey, I'm Ishlok Dwivedi 👋
-### Backend Developer · Java & Spring Boot · Open Source Contributor
 
-*Final-year CSE student at ABES Engineering College, Ghaziabad*
+### Java Backend Developer | Spring Boot | REST APIs | GSSoC Contributor
+
+*Final Year CSE Student at ABES Engineering College, Ghaziabad*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishlok-dwivedi-b72521289)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishlokdwivedi1@gmail.com)
@@ -15,39 +16,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a backend-focused developer who enjoys building clean, well-structured APIs and exploring how large systems are designed to scale. Most of my work lives in Java and Spring Boot — I've built REST APIs, worked with microservice patterns, and recently started digging into event-driven architecture with Kafka.
+I'm a backend-focused developer passionate about building scalable applications and clean APIs using Java and Spring Boot.
 
-Outside personal projects, I'm currently contributing to open-source through **GSSoC** — reading unfamiliar codebases, submitting PRs, and picking up engineering habits that no classroom teaches.
+Currently contributing to open source through **GSSoC**, solving DSA problems regularly, and exploring modern backend technologies like Kafka, Spring Security, and AI integrations.
 
-- 🔨 &nbsp; Contributing to real-world codebases via **GSSoC** — bugs, features, and everything in between
-- 🤝 &nbsp; Open to collaborating on **backend-heavy projects** — REST APIs, microservices, clean architecture
-- 🌱 &nbsp; Currently leveling up in **Spring Security, Apache Kafka, structured logging**, and **AI integration with Spring Boot** — also exploring where **Generative AI** fits in modern backend systems
-- 🎯 &nbsp; Working toward sharper **system design** and **DSA** fundamentals for production-level thinking
-- 💬 &nbsp; Happy to talk **Spring Boot, REST APIs, Gradle, MVC architecture** — or just how to start a Java project the right way
+- 🔨 Contributing to real-world projects through **GSSoC**
+- 🚀 Building backend applications with **Spring Boot**
+- 🌱 Learning **Spring Security, Apache Kafka, Docker**
+- 📚 Practicing **DSA & System Design**
+- 🤝 Open to collaboration on backend and open-source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core**
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
 
-**Backend & APIs**
-
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-**Database & DevOps**
+### Database & DevOps
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -55,18 +56,48 @@ Outside personal projects, I'm currently contributing to open-source through **G
 
 <div align="center">
 
-![Ishlok's GitHub Stats](https://github-readme-stats.shion.dev/api?username=IshlokDwivedi-coder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IshlokDwivedi-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=IshlokDwivedi-coder&theme=dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshlokDwivedi-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=IshlokDwivedi-coder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=IshlokDwivedi-coder&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏥 Patient Management System
+
+Backend application built using Spring Boot that helps manage patient records, appointments, and healthcare workflows.
+
+**Tech Stack:** Java, Spring Boot, MySQL, REST APIs
+
+🔗 Repository: https://github.com/IshlokDwivedi-coder/Patient_Management
+
+---
+
+### 💰 Finance Data Processing Backend
+
+A Spring Boot backend service for processing and managing financial data efficiently.
+
+**Tech Stack:** Java, Spring Boot, Gradle, REST APIs
+
+---
+
+## 📈 Coding Profiles
+
+- 💻 LeetCode: 230+ Problems Solved
+- ⭐ HackerRank: 5-Star Java Badge
+- 🚀 Open Source Contributor (GSSoC)
+
+---
+
 <div align="center">
 
-*Always building. Always learning.*
+### 💡 "Always Building. Always Learning."
 
 </div>
